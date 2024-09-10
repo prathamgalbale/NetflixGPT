@@ -8,13 +8,11 @@
 - Form Validation
 - Custom Hooks
 - Firebase Setup
-- Deploying our app to production
+- Deployed app to production
 - Created Redux Store with userSlice
-- Regiter TMDB API & create an app & get access token
-- Get Data from TMDB now playing movies list API
+- Got Movies Data from TMDB 
 - Multi-language Feature in gpt search bar
 - fetched gptMoviesSuggestions from TMDB
-- Resused Movie List component to make movie suggestion container
 
 # Features 
 
